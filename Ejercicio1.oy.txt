@@ -1,0 +1,5 @@
+nomb = input("¿Como te llamas?")
+edad = int(input("¿Que edad tienes?"))
+
+print("Hola", nomb)
+print("Edad:", edad)
